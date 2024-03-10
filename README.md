@@ -1,1 +1,1 @@
-# PyGameSimplePong
+# PyPong - Simple Pong Game
